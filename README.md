@@ -2,10 +2,11 @@
 
 ## Table of Contents
 - [Awesome SBT Plugins](#awesome-sbt)
-  - [Documentation](#Documentation)
-  - [Release](#Release)
-  - [Generator](#Generator)
-  - [Analysis](#Analysis)
+  - [Documentation](#documentation)
+  - [Release](#release)
+  - [Generator](#generator)
+  - [Analysis](#analysis)
+  - [Tools](#tools)
 
 ## Documentation
 
@@ -24,3 +25,7 @@
 ## Analysis
 
 * [sbt-stats](https://github.com/orrsella/sbt-stats): generate source code statistics (lines of code etc)
+
+## Tools
+
+* [sbt-ammonite](https://github.com/VATBox/sbt-ammonite): sbt plugin to enable Ammonite REPL
