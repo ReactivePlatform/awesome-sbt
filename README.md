@@ -17,6 +17,7 @@
 
 * [sbt-native-packager](https://github.com/sbt/sbt-native-packager): Build native packages (RPM, .deb etc) for your projects
 * [sbt-docker](https://github.com/marcuslonnberg/sbt-docker): create and push Docker images
+* [sbt-assembly](https://github.com/sbt/sbt-assembly): Deploy fat jars.
 
 ## Generator
 
