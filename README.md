@@ -31,3 +31,4 @@
 
 * [sbt-ammonite](https://github.com/VATBox/sbt-ammonite): sbt plugin to enable Ammonite REPL
 * [sbt-plantuml-plugin](https://github.com/Banno/sbt-plantuml-plugin): An sbt plugin to generate sequence diagrams from text files.
+* [sbt-scalariform](https://github.com/sbt/sbt-scalariform): sbt plugin adding support for source code formatting using Scalariform
